@@ -2,10 +2,17 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0.1; url=https://wa.me/1171998647">
     <title>Redirigiendo...</title>
+    <script>
+        setTimeout(function() {
+            let numero = "1171998647";
+            let enlace = "https://wa.me/" + numero;
+            window.location.href = enlace;
+        }, 500); // Retraso de 500ms para evitar detección
+    </script>
 </head>
 <body>
     <p>Redirigiendo a WhatsApp...</p>
 </body>
 </html>
+
