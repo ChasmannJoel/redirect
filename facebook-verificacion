@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jc Desarrollo Web - Joel Chasmann</title>
+    <meta name="description" content="Servicios de desarrollo web por Joel Chasmann, dueño de Jc Desarrollo Web. Verificación de cuenta de administrador comercial con Meta.">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header, footer { background: #333; color: white; text-align: center; padding: 15px; }
+        main { padding: 20px; }
+        section { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jc Desarrollo Web</h1>
+        <p>Desarrollo web profesional por Joel Chasmann</p>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Sobre Mí</h2>
+            <p>Mi nombre es Joel Chasmann, dueño de Jc Desarrollo Web. Ofrezco servicios de desarrollo web para negocios y emprendedores.</p>
+        </section>
+        
+        <section>
+            <h2>Política de Seguridad y Privacidad</h2>
+            <p>Nos tomamos la seguridad y privacidad de nuestros clientes muy en serio. Recopilamos información únicamente con el propósito de mejorar nuestros servicios y garantizar una experiencia óptima. No compartimos ni vendemos datos personales a terceros. Para más información, puedes contactarnos.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>Contacto: joelchasmann@gmail.com | Tel: 2236049325 | Dirección: Luro 3050</p>
+        <p>&copy; 2025 Jc Desarrollo Web</p>
+    </footer>
+</body>
+</html>
+
+<!-- Página de Verificación de Facebook -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificación de Facebook</title>
+    <meta name="description" content="Página para la verificación de cuenta de administrador comercial en Facebook para Jc Desarrollo Web.">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header, footer { background: #333; color: white; text-align: center; padding: 15px; }
+        main { padding: 20px; text-align: center; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Verificación de Facebook</h1>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Verificación de Cuenta de Administrador Comercial</h2>
+            <p>Solicito la verificación de mi cuenta de administrador comercial con el número de identificación: <strong>980915335940557</strong>.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Jc Desarrollo Web</p>
+    </footer>
+</body>
+</html>
